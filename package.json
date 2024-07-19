@@ -1,0 +1,21 @@
+{
+  "name": "nitro-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "datetime": "^0.0.3",
+    "discord.js-selfbot-v13": "^2.15.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7"
+  }
+}
